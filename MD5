@@ -1,0 +1,17 @@
+9bbbe779bc408e26810ea1bb5853fd71 *DESCRIPTION
+76815ec359e993e175335fcffddf63c6 *NAMESPACE
+4ab94bb9834299c69f6365e9f7d0f8f0 *R/glaciers.R
+1155bab8d7362732c95d0b8ed15b9882 *R/nasa.R
+5a02bd6b1498ed432fda3f3b719b7703 *R/natural-earth.R
+f3fe563c191733aa3cbe09ca71974cd4 *R/storms.R
+79a02445db832528e15244be97af6a69 *README.md
+f5169af0068e04a2053f4c8bfb9a5b49 *data/atmos.rdata
+f7acff046371ded96258c6fb8abe2b56 *data/borders.rdata
+7cb59e2ddd8c90266f62506c1c94d856 *data/elev.rdata
+b0685f30f80f7065dd38b70f19e403b5 *data/glaciers.rdata
+302a3bbd6947cac5c1cb9118fad381e6 *data/storms.rdata
+7e40aa600595021277c7871f8f2e44e2 *man/atmos.Rd
+d876d9172e4a6c160297865e734552c8 *man/borders.Rd
+f699d0dea6ae9e33a754846256ef82cb *man/elev.Rd
+bc3b4a53a3eb7a4903365af2cda8624d *man/glaciers.Rd
+3e2940789e98db84b4ad6046a40413a2 *man/storms.Rd
