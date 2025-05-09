@@ -1,17 +1,22 @@
 Package: nasaweather
-Title: Collection of datasets from the ASA 2006 data expo
-Version: 0.1
-Authors@R: 'Hadley Wickham <h.wickham@gmail.com> [aut,cre]'
-Description: This package contains tidied data from the ASA 2006 data expo,
-    as well as a number of useful other related data sets.
+Title: Collection of Datasets from the ASA 2006 Data Expo
+Version: 0.1.1
+Authors@R: 
+    person("Hadley", "Wickham", , "hadley@posit.co", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4757-117X"))
+Description: Tidied data from the ASA 2006 data
+    expo, as well as a number of useful other related data sets.
+License: MIT + file LICENSE
 Depends: R (>= 3.1.0)
-License: GPL-3
+Encoding: UTF-8
 LazyData: true
-URL: http://github.com/hadley/nasaweather,
-        http://stat-computing.org/dataexpo/2006/
-Packaged: 2014-07-21 19:30:24 UTC; hadley
-Author: 'Hadley Wickham' [aut, cre]
-Maintainer: 'Hadley Wickham' <h.wickham@gmail.com>
+RoxygenNote: 7.3.2
+URL: https://github.com/hadley/nasaweather
+BugReports: https://github.com/hadley/nasaweather/issues
 NeedsCompilation: no
+Packaged: 2025-05-09 18:37:27 UTC; hadleywickham
+Author: Hadley Wickham [aut, cre] (ORCID:
+    <https://orcid.org/0000-0003-4757-117X>)
+Maintainer: Hadley Wickham <hadley@posit.co>
 Repository: CRAN
-Date/Publication: 2014-07-22 11:08:36
+Date/Publication: 2025-05-09 23:50:02 UTC
